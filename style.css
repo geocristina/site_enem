@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    background-color: rgb(255, 253, 253);
+}
+
+a {
+    color: orange;
+}
+
+ul {
+    line-height: 2;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.pag-red p {
+    text-align: justify;
+    font-size: 20px;
+}
+.pag-red h1 {
+    color: orange;
+}
+
